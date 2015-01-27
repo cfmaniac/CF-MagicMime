@@ -1,0 +1,6 @@
+<cfinclude> the file then call it as a function, passing it a full file path.  
+It will return a structure detailing the file type (defaults to 'Unknown').
+
+Some tokens based on the work at http://www.garykessler.net/library/file_sigs.html
+
+Paul Connell <magicmime@paulconnell.info>
